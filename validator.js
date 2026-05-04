@@ -1,4 +1,4 @@
-const DEFAULT_ACTION = true; // true = Allow, false = block
+const DEFAULT_ACTION = false; // true = Allow, false = block
 const DEFAULT_MESSAGE = "This email was blocked due to a policy violation. Please review and modify the message before resending.";
 
 var mailboxItem;
