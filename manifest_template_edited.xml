@@ -84,7 +84,7 @@ https://learn.microsoft.com/en-us/microsoft-365/admin/manage/manage-deployment-o
                     https://www.example.com/validator/mainpage.html. The URL MUST be a valid
                     HTTPS URL and point to the "mainpage.html" file provided in this package.
                 -->
-                <SourceLocation DefaultValue="https://github.com/milinetx/TestOutlookaddin/blob/main/mainpage.html" />
+                <SourceLocation DefaultValue="https://milinetx.github.io/TestOutlookaddin/mainpage.html" />
             </DesktopSettings>
         </Form>
     </FormSettings>
@@ -118,7 +118,7 @@ https://learn.microsoft.com/en-us/microsoft-365/admin/manage/manage-deployment-o
                         https://www.example.com/validator/mainpage.html. The URL MUST be a valid
                         HTTPS URL and point to the "mainpage.html" file provided in this package.
                     -->
-                    <bt:Url id="residUILessFunctionFileUrl" DefaultValue="https://github.com/milinetx/TestOutlookaddin/blob/main/mainpage.html" />
+                    <bt:Url id="residUILessFunctionFileUrl" DefaultValue="https://milinetx.github.io/TestOutlookaddin/mainpage.html" />
                 </bt:Urls>
             </Resources>
         </VersionOverrides>
